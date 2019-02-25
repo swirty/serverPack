@@ -6,6 +6,12 @@
 ====== [ SETTINGS ] ======
 
 D LOCKED
+D1 sword
+D2 pickaxe
+D3 axe
+D4 shovel
+D5-6 blocks
+D9 edibleFood
 
 ======== [ GETTING STARTED ] ========
 
