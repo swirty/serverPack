@@ -6,14 +6,23 @@ This modpack will install with minimum graphics set. If your computer runs these
 
 Keybinds will be pre-customized, feel free to use your own or use what we set!
 
-How to Install:
+ ```
+ Forge Version: 1.12.2 - 14.23.5.2814
+ ```
+ https://files.minecraftforge.net/
+
+How to Install
+
  - Install the Latest Version of Forge
  - Download this directory
  - Extract the .zip file to it's own folder
- - In the vanilla Minecraft launcher, set the game version as "Release 1.12.2-forge1.12.2-14.23.5.2811"
+ - In the vanilla Minecraft launcher, set the game version as `Release 1.12.2-forge1.12.2-14.23.5.2811`
  - Set the the game directory to the folder you extracted the .zip into
  - Open Forge through the vanilla Minecraft launcher
  
- Forge Version: 1.12.2 - 14.23.5.2814
- 
- https://files.minecraftforge.net/
+ Initial Optimization
+  - In the Mod Pack Folder, navigate to the 'mods' folder
+  - Execute `BetterFps-1.4.8.jar`
+  - Select the 'Test Opimization' Option, and run the benchmark. Note down what method has the least response (top of list)
+  - Open Minecraft, go to 'settings' and navigate to 'Better FPS' Settings, change render method to best method found by the benchmark.
+  - Restart Minecraft
