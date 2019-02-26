@@ -6,9 +6,8 @@ This modpack will install with minimum graphics set. If your computer runs these
 
 Keybinds will be pre-customized, feel free to use your own or use what we set!
 
- ```
- Forge Version: 1.12.2 - 14.23.5.2814
- ```
+
+ `Forge Version: 1.12.2 - 14.23.5.2814`
  https://files.minecraftforge.net/
 
 How to Install
