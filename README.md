@@ -1,8 +1,8 @@
-# serverPackBeta
+# serverPack
 
 Some Notes:
 
-This modpack will install with minimum graphics set. If you're computer runs these pretty well, feel free to up the graphics through the video settings
+This modpack will install with minimum graphics set. If your computer runs these pretty well, feel free to up the graphics through the video settings
 
 Keybinds will be pre-customized, feel free to use your own or use what we set!
 
