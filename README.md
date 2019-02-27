@@ -22,6 +22,6 @@ How to Install
  Initial Optimization
   - In the Mod Pack Folder, navigate to the 'mods' folder
   - Execute `BetterFps-1.4.8.jar`
-  - Select the 'Test Opimization' Option, and run the benchmark. Note down what method has the least response (top of list)
-  - Open Minecraft, go to 'settings' and navigate to 'Better FPS' Settings, change render method to best method found by the benchmark.
+  - Select the 'Test Opimization' Option, and run the benchmark. Note down which method has the shortest time, it will be the method on the "change to x" button at the bottom of the window.
+  - This button doesn't actually work, so open Minecraft, go to 'settings' and navigate to 'Better FPS' Settings, change render method to best method found by the benchmark.
   - Restart Minecraft
