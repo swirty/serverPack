@@ -3,3 +3,6 @@
 
 #Client-Only Files
 /config/jei/bookmarks.ini
+
+#Client Run Only Files
+/saves
