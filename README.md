@@ -1,4 +1,4 @@
-# serverPack
+# Tealeaf Realms Modpack
 
 Some Notes:
 
@@ -25,3 +25,6 @@ How to Install
   - Select the 'Test Opimization' Option, and run the benchmark. Note down which method has the shortest time, it will be the method on the "change to x" button at the bottom of the window.
   - This button doesn't actually work, so open Minecraft, go to 'settings' and navigate to 'Better FPS' Settings, change render method to best method found by the benchmark.
   - Restart Minecraft
+
+
+Server-Side Configuration will be performed on this directory to enable single-player testing with server-side settings
