@@ -12,5 +12,7 @@ usernamecache.json
 
 #Client-Only Mods
 /config/jei/bookmarks.ini
+/config/AppliedEnergistics2/items.csv
+/config/bradon3055/ResourceCache/*
 /journeymap/data/sp/*
 /TombManyGraves/savedInventories/*
