@@ -11,6 +11,7 @@ username.json
 usernamecache.json
 
 #Client-Only Mods
+/config/UniqueNames.txt
 /config/jei/bookmarks.ini
 /config/AppliedEnergistics2/items.csv
 /config/bradon3055/ResourceCache/*
