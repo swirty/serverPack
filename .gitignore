@@ -5,4 +5,4 @@
 /config/jei/bookmarks.ini
 
 #Client Run Only Files
-/saves
+/saves/*
