@@ -1,8 +1,16 @@
 #Log Files
 *.log
 
-#Client-Only Files
-/config/jei/bookmarks.ini
-
-#Client Run Only Files
+#Client Only
+/crash-reports/*
+/logs/*
 /saves/*
+/screenshots/*
+
+username.json
+usernamecache.json
+
+#Client-Only Mods
+/config/jei/bookmarks.ini
+/journeymap/data/sp/*
+/TombManyGraves/savedInventories/*
