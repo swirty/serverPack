@@ -26,5 +26,4 @@ How to Install
   - This button doesn't actually work, so open Minecraft, go to 'settings' and navigate to 'Better FPS' Settings, change render method to best method found by the benchmark.
   - Restart Minecraft
 
-
-Server-Side Configuration will be performed on this directory to enable single-player testing with server-side settings
+Server-Side Config is mostly similar to here, however some changes will be made on server-side only
